@@ -12,4 +12,6 @@ Based on the [Smaller Arc Dark Grey](https://github.com/diesphink/albert-themes)
 
 * Download [ZIP](https://github.com/HansCz/albert-theme-smaller-flat-arc-dark-grey/archive/master.zip)
 * Copy .qss file to ```$HOME/.local/share/albert/org.albert.frontend.widgetboxmodel/themes/```
-* Launch Albert & Change Theme to new theme
+* Launch Albert
+* Set theme in Preferences
+* Enjoy!

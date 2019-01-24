@@ -1,4 +1,4 @@
-These themes are for [Albert](https://github.com/ManuelSchneid3r/albert), an Omnilauncher for linux.
+A theme for [Albert](https://github.com/ManuelSchneid3r/albert), an Omnilauncher for linux.
 
 # Smaller Flat Arc Dark Grey
 ![Screenshot](./flat-arc-dark-grey-screenshot.png)

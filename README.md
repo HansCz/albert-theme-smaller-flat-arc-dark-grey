@@ -1,6 +1,7 @@
+# Smaller Flat Arc Dark Grey
+
 A theme for [Albert](https://github.com/ManuelSchneid3r/albert), an Omnilauncher for linux.
 
-# Smaller Flat Arc Dark Grey
 ![Screenshot](./flat-arc-dark-grey-screenshot.png)
 
 Based on the [Smaller Arc Dark Grey](https://github.com/diesphink/albert-themes) theme by [diesphink](https://github.com/diesphink)

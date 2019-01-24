@@ -9,6 +9,6 @@ Based on the [Smaller Arc Dark Grey](https://github.com/diesphink/albert-themes)
 
 ### Arch Linux
 
-* Download [ZIP](https://github.com/diesphink/albert-themes/archive/master.zip)
+* Download [ZIP](https://github.com/HansCz/albert-theme-smaller-flat-arc-dark-grey/archive/master.zip)
 * Copy .qss file to ```$HOME/.local/share/albert/org.albert.frontend.widgetboxmodel/themes/```
 * Launch Albert & Change Theme to new theme
